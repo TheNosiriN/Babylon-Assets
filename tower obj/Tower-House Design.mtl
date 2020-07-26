@@ -1,0 +1,134 @@
+# Blender MTL File: 'Tower-House Design.blend'
+# Material Count: 12
+
+newmtl Gals
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.630918
+illum 2
+refl C:\\Users\\the3dpc\\Desktop\\textures\\REF 1.jpg
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.045405 0.045405 0.045405
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nOR.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.079014 0.152142 0.086001
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.117851 0.052484 0.010759
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.234595 0.234595 0.234595
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.037
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.059727 0.059727 0.059727
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.038
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.092525 0.092525 0.092525
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.039
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd nOR.png
+map_Bump C:\\Users\\the3dpc\\Desktop\\textures\\wooden floor nor.jpg
+refl C:\\Users\\the3dpc\\Desktop\\textures\\REF 1.jpg
+
+newmtl building_02
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.054054 0.054054 0.054054
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nOR.png
+map_Bump C:\\Users\\the3dpc\\Desktop\\textures\\AussenWand_N.jpg
+
+newmtl building_02_Door
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.183784 0.183784 0.183784
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\the3dpc\\Desktop\\textures\\Window blind _Nor.JPG
+map_Kd C:\\Users\\the3dpc\\Desktop\\textures\\Window blind _Ao.JPG
+refl C:\\Users\\the3dpc\\Desktop\\textures\\REF 1.jpg
+
+newmtl building_02_Untitled.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.054054 0.054054 0.054054
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\the3dpc\Desktop\Tower-House Design\textures\ao.png
+map_Bump C:\\Users\\the3dpc\\Desktop\\textures\\AussenWand_N.jpg
