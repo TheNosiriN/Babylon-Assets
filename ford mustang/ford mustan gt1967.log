@@ -1,0 +1,114 @@
+Exporter version: 6.4.3, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\User1\Downloads\uploads_files_2226459_ford_mustan_gt1967(1)\
+			processing texture skylit_garage_1k
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Plane.010
+		processing begun of material:  Material
+		processing begun of material:  temir]
+		processing begun of material:  Material.002
+		processing begun of material:  nomer
+		processing begun of material:  tereze
+		processing begun of material:  farb
+		processing begun of material:  far
+			WARNING: unsupported node type(ShaderNodeBsdfGlass) will trigger baking
+		processing begun of material:  Material.005
+			WARNING: unsupported node type(ShaderNodeBsdfAnisotropic) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture Plane_010_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture Plane_010_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "BakingUV"
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture Plane_010_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  0 min, 24.524 secs
+		num positions      :  12590
+		num normals        :  12590
+		num tangents       :  0
+		num uvs            :  25180
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  9708
+		WARNING: # of 0 area faces found:  28
+	WARNING: The following object (type - FONT) is not currently exportable thus ignored: Text
+	processing begun of mesh:  Plane.015
+		processing begun of material:  Material.002
+		processing begun of material:  Material.003
+		processing begun of material:  temir]
+		processing begun of multimaterial:  ford_mustan_gt1967.Multimaterial#0
+		num positions      :  796
+		num normals        :  796
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1604
+	processing begun of mesh:  Plane.002
+		processing begun of material:  Material.002
+		processing begun of material:  Material.003
+		processing begun of material:  temir]
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Material.003
+		registered as also a user of material:  temir]
+		processing begun of multimaterial:  ford_mustan_gt1967.Multimaterial#1
+		num positions      :  796
+		num normals        :  796
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1604
+	processing begun of mesh:  Plane.003
+		processing begun of material:  Material.002
+		processing begun of material:  Material.003
+		processing begun of material:  temir]
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Material.003
+		registered as also a user of material:  temir]
+		processing begun of multimaterial:  ford_mustan_gt1967.Multimaterial#2
+		num positions      :  796
+		num normals        :  796
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1604
+	processing begun of mesh:  Plane.000
+		processing begun of material:  Material.002
+		processing begun of material:  Material.003
+		processing begun of material:  temir]
+		registered as also a user of material:  Material.002
+		registered as also a user of material:  Material.003
+		registered as also a user of material:  temir]
+		processing begun of multimaterial:  ford_mustan_gt1967.Multimaterial#3
+		num positions      :  796
+		num normals        :  796
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1604
+========= Writing of JSON file started =========
+	writing mesh:  Plane.010
+	writing mesh:  Plane.015
+	writing mesh:  Plane.002
+	writing mesh:  Plane.003
+	writing mesh:  Plane.000
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 26.97 secs
